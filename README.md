@@ -86,11 +86,11 @@ const upload = multer({ storage: storage_2 });
     &nbsp; 
     <br>
     <p align="center">Home Page</p>
-    <img src="">
+    <img src="https://github.com/CJYuanDa/Blog-React-Node-MySQL/blob/master/app_image/Home%20Page.png?raw=true">
     </td> 
 <td width="50%">
     <br>
     <p align="center">Single Page</p>
-    <img src="">  
+    <img src="https://github.com/CJYuanDa/Blog-React-Node-MySQL/blob/master/app_image/Single%20Page.png?raw=true">  
 </td>
 </table>
